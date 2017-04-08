@@ -10,8 +10,12 @@
 
     <repositories>
         <repository>
-            <id>testlib-repo</id>
+            <id>testlib-repo releases</id>
             <url>https://github.com/sejoharp/testlib/master/releases</url>
+        </repository>
+        <repository>
+            <id>testlib-repo snapshots</id>
+            <url>https://github.com/sejoharp/testlib/master/snapshots</url>
         </repository>
     </repositories>
 
